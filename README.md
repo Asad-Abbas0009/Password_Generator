@@ -1,4 +1,4 @@
-## Password_Generator
-# Using java_Script
-# HTML5
-# Tailwind
+# Password_Generator
+ Using java_Script
+ HTML5
+ Tailwind Css
